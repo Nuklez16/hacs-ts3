@@ -1,0 +1,8 @@
+{
+  "domain": "ts3_sensor",
+  "name": "TeamSpeak 3 Sensor",
+  "version": "1.0",
+  "documentation": "https://github.com/Nuklez16/hacs-ts3",
+  "requirements": ["ts3>=2.0.0b2"],
+  "codeowners": ["@Nukleuz"]
+}
