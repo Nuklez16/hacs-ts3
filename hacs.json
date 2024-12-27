@@ -1,0 +1,9 @@
+{
+  "name": "TeamSpeak 3 Sensor",
+  "content_in_root": false,
+  "domain": "ts3_sensor",
+  "iot_class": "local_polling",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Nuklez16/hacs-ts3",
+  "issue_tracker": "https://github.com/Nuklez16/hacs-ts3/issues"
+}
